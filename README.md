@@ -7,7 +7,7 @@
 
               
 <br/>
-<img alt="Sample Work" border="0" height="236" src="https://darkreader.org/images/darkreader-cup.png" title="Sample Work" width="400" />
+<img alt="Sample Work" border="0" height="236" src="https://darkreader.org/images/darkreader-cup.png" title="Sample Work" width="512" />
   <br/>
 
 
