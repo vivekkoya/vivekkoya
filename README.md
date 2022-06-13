@@ -1,4 +1,7 @@
 <p>
+
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
   <h1 align="center"><b>Open-Source Developer & Code Contributer</h1>
 </p>
 
@@ -19,6 +22,3 @@
 
 ## Some work:
 
-
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
