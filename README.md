@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Open-Source Developer & Code Contributer</h1>
+  <h1 align="center"><b>Software Intern</h1>
 </p>
 
 <p align="center">
