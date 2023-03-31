@@ -15,7 +15,3 @@ Welcome, here you can find samples of my work:
 </p>
 
 
-
-
-## Some work:
-
